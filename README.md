@@ -444,9 +444,5 @@ This project helped develop practical experience in:
 
 ---
 
-## 📬 Contact
 
-If you have any questions, suggestions, or collaboration opportunities, feel free to connect through GitHub and contribute to the project.
-
-⭐ If you found this project useful, consider giving it a star on GitHub!
 
